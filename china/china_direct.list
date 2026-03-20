@@ -1,0 +1,155 @@
+# 国内直连规则（完整版）
+# 更新：2026-03-20
+
+# 国内域名关键词
+DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,alicdn
+DOMAIN-KEYWORD,alimama
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,baidupcs
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,jdpay
+DOMAIN-KEYWORD,xiaomi
+
+# 国内常见域名后缀
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,com.cn
+DOMAIN-SUFFIX,net.cn
+DOMAIN-SUFFIX,org.cn
+
+# 字节跳动
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,feiliao.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaocdn.com
+DOMAIN-SUFFIX,toutiaocloud.com
+
+# 百度
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,hao123.com
+
+# 阿里巴巴
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabausercontent.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncdn.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+
+# 腾讯
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,cdn-go.cn
+DOMAIN-SUFFIX,tencent-cloud.net
+
+# 网易
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163yun.com
+
+# 京东
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,360buyimg.com
+
+# 微博
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinajs.com
+
+# 哔哩哔哩
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,acgvideo.com
+
+# 小米
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mioffice.cn
+
+# 华为
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,huaweicloud.com
+DOMAIN-SUFFIX,hicloud.com
+
+# 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+
+# 美团
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+
+# 滴滴
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,xiaojukeji.com
+
+# 知乎
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+# 豆瓣
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+
+# 国内AI
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,moonshot.ai
+DOMAIN-SUFFIX,kimi.moonshot.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,minimax.chat
+DOMAIN-SUFFIX,bailian.console.aliyun.com
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,stepchat.com
+DOMAIN-SUFFIX,yiyan.baidu.com
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,doubao.com
+
+# 国内CDN和云服务
+DOMAIN-SUFFIX,cdnhwc1.com
+DOMAIN-SUFFIX,cdnhwc2.com
+DOMAIN-SUFFIX,cdnhwc3.com
+DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,alikunlun.com
+DOMAIN-SUFFIX,alibabausercontent.com
