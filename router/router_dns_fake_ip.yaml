@@ -1,0 +1,87 @@
+dns:
+  enable: true
+  ipv6: false
+  listen: :23453
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-range6: fdfe:dcba:9876::1/64
+  fake-ip-filter-mode: blacklist
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "+.msftconnecttest.com"
+    - "+.msftncsi.com"
+    - "time.*.com"
+    - "time.*.gov"
+    - "time.*.edu.cn"
+    - "time.*.apple.com"
+    - "time-ios.apple.com"
+    - "time1.*.com"
+    - "time2.*.com"
+    - "time3.*.com"
+    - "time4.*.com"
+    - "time5.*.com"
+    - "time6.*.com"
+    - "time7.*.com"
+    - "ntp.*.com"
+    - "ntp.*.org"
+    - "+.pool.ntp.org"
+    - "localhost.ptlogin2.qq.com"
+    - "+.market.xiaomi.com"
+  respect-rules: true
+  proxy-server-nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver-policy:
+    "geosite:cn":
+      - 223.5.5.5
+      - 119.29.29.29
+    "+.anthropic.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.claude.ai":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.claudeusercontent.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "servd-anthropic-website.b-cdn.net":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.openai.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.chat.openai.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.chatgpt.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.oaistatic.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.oaiusercontent.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.x.ai":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "api.x.ai":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "grok.x.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "+.grok.com":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+    "geosite:gfw":
+      - tls://unfiltered.adguard-dns.com
+      - https://dns.dns-53.us/dns-query
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+    - 180.76.76.76
