@@ -1,0 +1,39 @@
+# 其他海外AI（剔除 Claude 及共用域名）
+# 更新：2026-03-20
+
+# === Groq ===
+DOMAIN-SUFFIX,api.groq.com
+DOMAIN-SUFFIX,console.groq.com
+
+# === Cursor ===
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# === JetBrains AI ===
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# === Perplexity ===
+DOMAIN-SUFFIX,perplexity.ai
+
+# === xAI Grok ===
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+
+# === Meta AI ===
+DOMAIN-SUFFIX,meta.ai
+
+# === Mistral ===
+DOMAIN-SUFFIX,mistral.ai
+
+# === Together.ai ===
+DOMAIN-SUFFIX,api.together.xyz
+
+# === NotebookLM ===
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+
+# === Azure AI ===
+DOMAIN-SUFFIX,ai.azure.com
