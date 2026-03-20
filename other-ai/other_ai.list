@@ -19,7 +19,9 @@ DOMAIN-SUFFIX,perplexity.ai
 
 # === xAI Grok ===
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,api.x.ai
 
 # === Meta AI ===
 DOMAIN-SUFFIX,meta.ai

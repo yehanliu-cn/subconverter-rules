@@ -4,6 +4,7 @@
 # === OpenAI (微软合作) ===
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,oaistatic.com
