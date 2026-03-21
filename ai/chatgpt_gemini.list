@@ -4,12 +4,35 @@
 # === OpenAI (微软合作) ===
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN,auth0.openai.com
+DOMAIN,setup.auth.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ct.sendgrid.net
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,events.statsigapi.net
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
+DOMAIN-SUFFIX,imgix.net
+DOMAIN,workos.imgix.net
+DOMAIN,forwarder.workos.com
+DOMAIN,cdn.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,android.chat.openai.com
+DOMAIN,desktop.chat.openai.com
+DOMAIN,tcr9i.chat.openai.com
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o207216.ingest.sentry.io
 
 # === Google Gemini ===
 DOMAIN-SUFFIX,gemini.google
@@ -86,3 +109,5 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN,js.intercomcdn.com
+DOMAIN,js.stripe.com

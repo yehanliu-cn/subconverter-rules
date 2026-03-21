@@ -12,10 +12,33 @@ DOMAIN,servd-anthropic-website.b-cdn.net,💬 Claude
 
 DOMAIN-KEYWORD,openai,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,openai.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,auth.openai.com,💬 ChatGPT+Gemini
+DOMAIN,auth0.openai.com,💬 ChatGPT+Gemini
+DOMAIN,setup.auth.openai.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,chatgpt.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,ct.sendgrid.net,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,oaistatic.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,oaiusercontent.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,sora.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,statsig.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,statsigapi.net,💬 ChatGPT+Gemini
+DOMAIN,events.statsigapi.net,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,featureassets.org,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,prodregistryv2.org,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,workos.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,workoscdn.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,imgix.net,💬 ChatGPT+Gemini
+DOMAIN,workos.imgix.net,💬 ChatGPT+Gemini
+DOMAIN,forwarder.workos.com,💬 ChatGPT+Gemini
+DOMAIN,cdn.workos.com,💬 ChatGPT+Gemini
+DOMAIN,images.workoscdn.com,💬 ChatGPT+Gemini
+DOMAIN,ios.chat.openai.com,💬 ChatGPT+Gemini
+DOMAIN,android.chat.openai.com,💬 ChatGPT+Gemini
+DOMAIN,desktop.chat.openai.com,💬 ChatGPT+Gemini
+DOMAIN,tcr9i.chat.openai.com,💬 ChatGPT+Gemini
+DOMAIN,rum.browser-intake-datadoghq.com,💬 ChatGPT+Gemini
+DOMAIN,o33249.ingest.sentry.io,💬 ChatGPT+Gemini
+DOMAIN,o207216.ingest.sentry.io,💬 ChatGPT+Gemini
 
 DOMAIN-SUFFIX,gemini.google,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,gemini.google.com,💬 ChatGPT+Gemini
@@ -51,6 +74,8 @@ DOMAIN-SUFFIX,googlevideo.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,ggpht.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,fcm.googleapis.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,💬 ChatGPT+Gemini
+DOMAIN,js.intercomcdn.com,💬 ChatGPT+Gemini
+DOMAIN,js.stripe.com,💬 ChatGPT+Gemini
 
 DOMAIN-SUFFIX,x.ai,💬 其他海外AI
 DOMAIN-SUFFIX,grok.com,💬 其他海外AI
