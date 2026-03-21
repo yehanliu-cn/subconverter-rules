@@ -6,6 +6,7 @@
 
 DOMAIN-SUFFIX,anthropic.com,💬 Claude
 DOMAIN-SUFFIX,claude.ai,💬 Claude
+DOMAIN-SUFFIX,claude.com,💬 Claude
 DOMAIN-SUFFIX,claudeusercontent.com,💬 Claude
 DOMAIN,servd-anthropic-website.b-cdn.net,💬 Claude
 
