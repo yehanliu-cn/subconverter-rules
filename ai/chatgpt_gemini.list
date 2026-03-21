@@ -1,5 +1,5 @@
-# 谷歌服务合并规则 (ChatGPT+Gemini+Copilot+YouTube+FCM)
-# 更新：2026-03-20
+# 谷歌服务合并规则 (ChatGPT+Gemini+Copilot+Google Services)
+# 更新：2026-03-22
 
 # === OpenAI (微软合作) ===
 DOMAIN-KEYWORD,openai
@@ -23,6 +23,24 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+
+# === Google Services / Google Play / Google Account ===
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN,play.google.com
+DOMAIN,accounts.google.com
+DOMAIN,android.clients.google.com
+DOMAIN,ogs.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,aistudio.google.com
 
 # === Microsoft Copilot ===
 DOMAIN-SUFFIX,copilot.cloud.microsoft

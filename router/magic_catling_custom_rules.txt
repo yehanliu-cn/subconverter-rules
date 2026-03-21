@@ -1,0 +1,49 @@
+# Magic Catling 自定义规则模板
+# 说明：
+# 1. 适合在 Redir-Host + 访问控制 场景下，把 AI / Google 服务强制送进指定策略组。
+# 2. 这些规则应放在自定义规则靠前位置，优先于通用直连/通用代理规则。
+# 3. 组名与当前 GitHub 规则仓库保持一致。
+
+DOMAIN-SUFFIX,anthropic.com,💬 Claude
+DOMAIN-SUFFIX,claude.ai,💬 Claude
+DOMAIN-SUFFIX,claudeusercontent.com,💬 Claude
+DOMAIN,servd-anthropic-website.b-cdn.net,💬 Claude
+
+DOMAIN-KEYWORD,openai,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,openai.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,chatgpt.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,oaistatic.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,oaiusercontent.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,sora.com,💬 ChatGPT+Gemini
+
+DOMAIN-SUFFIX,gemini.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,bard.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,generativeai.google,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,deepmind.google,💬 ChatGPT+Gemini
+DOMAIN,ai.google.dev,💬 ChatGPT+Gemini
+DOMAIN,makersuite.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,notebooklm.google,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,notebooklm.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,aistudio.google.com,💬 ChatGPT+Gemini
+
+DOMAIN-SUFFIX,google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,googleapis.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,gstatic.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,gvt1.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,googleusercontent.com,💬 ChatGPT+Gemini
+DOMAIN,play.google.com,💬 ChatGPT+Gemini
+DOMAIN,accounts.google.com,💬 ChatGPT+Gemini
+DOMAIN,android.clients.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,youtube.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,youtu.be,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,yt.be,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,ytimg.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,googlevideo.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,ggpht.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,fcm.googleapis.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,💬 ChatGPT+Gemini
+
+DOMAIN-SUFFIX,x.ai,💬 其他海外AI
+DOMAIN-SUFFIX,grok.com,💬 其他海外AI
+DOMAIN-SUFFIX,grok.x.com,💬 其他海外AI
+DOMAIN-SUFFIX,api.x.ai,💬 其他海外AI

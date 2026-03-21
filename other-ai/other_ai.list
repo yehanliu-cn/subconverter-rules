@@ -32,10 +32,5 @@ DOMAIN-SUFFIX,mistral.ai
 # === Together.ai ===
 DOMAIN-SUFFIX,api.together.xyz
 
-# === NotebookLM ===
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-
 # === Azure AI ===
 DOMAIN-SUFFIX,ai.azure.com
