@@ -17,15 +17,23 @@ DOMAIN-SUFFIX,oaistatic.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,oaiusercontent.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,sora.com,💬 ChatGPT+Gemini
 
+DOMAIN-SUFFIX,gemini.google,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,gemini.google.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,bard.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,ai.google,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,generativeai.google,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,deepmind.google,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,geller-pa.googleapis.com,💬 ChatGPT+Gemini
 DOMAIN,ai.google.dev,💬 ChatGPT+Gemini
+DOMAIN,alkalicore-pa.clients6.google.com,💬 ChatGPT+Gemini
 DOMAIN,makersuite.google.com,💬 ChatGPT+Gemini
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,notebooklm.google,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,notebooklm.google.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,aistudio.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,jules.google,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,jules.google.com,💬 ChatGPT+Gemini
+DOMAIN-SUFFIX,labs.google,💬 ChatGPT+Gemini
 
 DOMAIN-SUFFIX,google.com,💬 ChatGPT+Gemini
 DOMAIN-SUFFIX,googleapis.com,💬 ChatGPT+Gemini
