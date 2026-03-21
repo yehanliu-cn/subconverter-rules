@@ -6,7 +6,7 @@
 - Google 通用服务单独分组，不再与 Gemini / ChatGPT 绑死
 - Netflix 默认锁定香港
 - 常见海外服务单独进 `🌐 全球服务`
-- 常见 NSFW 站点通过 `ACL4SSR AdultContent.list` 单独进 `🌐 全球服务`
+- 常见 NSFW / 海外站点通过 `Loyalsoldier proxy.txt` 统一进 `🌐 全球服务`
 - 其他服务走最快节点
 - 保留 `🔒 手动切换1-6`
 - 降低规则总量，减少路由器端不稳定
