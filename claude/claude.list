@@ -1,21 +1,4 @@
-# Claude/Anthropic 完整规则
-# 更新日期：2026-03-20
+# Claude / Anthropic 本地补丁
+# 仅保留上游 Claude.list 未稳定覆盖但实际验证有价值的域名
 
-# 核心域名
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
-
-# 辅助服务
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,launchdarkly.com
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,segment.io
