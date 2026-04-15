@@ -81,3 +81,4 @@ DOMAIN-SUFFIX,x.ai,💬 其他海外AI
 DOMAIN-SUFFIX,grok.com,💬 其他海外AI
 DOMAIN-SUFFIX,grok.x.com,💬 其他海外AI
 DOMAIN-SUFFIX,api.x.ai,💬 其他海外AI
+DOMAIN-SUFFIX,openrouter.ai,💬 其他海外AI

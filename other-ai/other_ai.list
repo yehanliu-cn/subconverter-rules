@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,api.x.ai
 # === Meta AI ===
 DOMAIN-SUFFIX,meta.ai
 
+# === OpenRouter ===
+DOMAIN-SUFFIX,openrouter.ai
+
 # === Mistral ===
 DOMAIN-SUFFIX,mistral.ai
 
