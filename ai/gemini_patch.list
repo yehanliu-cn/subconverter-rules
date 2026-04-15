@@ -1,6 +1,12 @@
 # Gemini / Google AI 补丁规则
 
 DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,aida.googleapis.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,ai.google
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
